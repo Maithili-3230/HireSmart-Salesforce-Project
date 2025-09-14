@@ -33,6 +33,9 @@ Each phase has:
 - Documentation (Markdown, Diagrams, Screenshots)
 - Code (Apex, LWC, Metadata)
 - Demo Evidence (GIFs, Videos, PPTs)
-
- Author
+  
+Author
 Maithili Debilal Thakre – Salesforce Student Developer
+ Project Repository
+GitHub Repo: [HireSmart-Salesforce-Project](https://github.com/Maithili-3230/HireSmart-Salesforce-Project)
+
